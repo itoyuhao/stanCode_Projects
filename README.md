@@ -1,4 +1,4 @@
-### stanCode_Projects: Representative programming projects of stanCode SC101
+### stanCode_Projects: Representative programming projects of stanCode
 
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101.
